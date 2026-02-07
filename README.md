@@ -9,4 +9,4 @@ Small HTTP API built with net/http.
 - In-memory storage
 
 ### Run
-go run ./cmd/server
+go run ./cmd/api
